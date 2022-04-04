@@ -1,0 +1,21 @@
+{
+    "name": "jack/lazada-sdk",
+    "description": "lazada sdk",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jack\\LazadaSdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "風哥",
+            "email": "56999+junchen@user.noreply.gitee.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+      "ext-curl": "*",
+        "ext-json": "*"
+    }
+}
