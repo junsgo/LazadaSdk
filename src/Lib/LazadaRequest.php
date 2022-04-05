@@ -6,7 +6,7 @@
  * copyright 比邻科技
  */
 
-namespace Jack\LazadaSdk\lib;
+namespace Jack\LazadaSdk\Lib;
 use \Exception;
 
 class LazadaRequest

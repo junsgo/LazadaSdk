@@ -8,7 +8,7 @@
 
 namespace Jack\LazadaSdk;
 
-use Jack\LazadaSdk\lib\LazadaClient;
+use Jack\LazadaSdk\Lib\LazadaClient;
 
 class LazadaApplication
 {

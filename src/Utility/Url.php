@@ -6,7 +6,7 @@
  * copyright 比邻科技
  */
 
-namespace Jack\LazadaSdk\utility;
+namespace Jack\LazadaSdk\Utility;
 
 class Url
 {

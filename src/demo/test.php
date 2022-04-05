@@ -6,8 +6,8 @@
  */
 
 
-use Jack\LazadaSdk\LazadaClient;
-use Jack\LazadaSdk\LazadaRequest;
+use Jack\LazadaSdk\Lib\LazadaClient;
+use Jack\LazadaSdk\Lib\LazadaRequest;
 
 
 class lazada
